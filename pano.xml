@@ -1,125 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="15998" appversion="5.2.5" start="node1">
+<tour start="node1" appversion="5.2.5" apprev="15998">
   <panorama id="node1">
-    <input width="3686" levelingpitch="0" levelingroll="0" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3686" levelbias="0.400">
-      <level width="3686" preload="0" height="3686" predecode="0"/>
-      <level width="1843" preload="0" height="1843" predecode="0"/>
-      <level width="921" preload="0" height="921" predecode="0"/>
-      <level width="460" preload="1" height="460" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="0.400" width="3686" levelingroll="0" leveltilesize="510" height="3686" levelbias="0.400" levelingpitch="0">
+      <level width="3686" height="3686" preload="0" predecode="0"/>
+      <level width="1843" height="1843" preload="0" predecode="0"/>
+      <level width="921" height="921" preload="0" predecode="0"/>
+      <level width="460" height="460" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min fov="5" pan="0" tilt="-62.1"/>
-      <max fovstereographic="270" fovfisheye="360" fov="120" pan="360" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fov="5" tilt="-62.1" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" latitude="" title="" tags="Edited 360s" datetime="12/1/18 8:18 AM" comment="" author="" customnodeid="" info="" description="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" borderradius="1" border="1" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot id="Point01" title="To the bathroom!" target="" url="{node2}" skinid="ht_node" description="" pan="-15.07" tilt="-4.57"/>
-      <hotspot id="Point02" title="To the bedroom!" target="" url="{node3}" skinid="ht_node" description="" pan="-6.98" tilt="-0.21"/>
-      <hotspot id="Point03" title="See the outside!" target="" url="{node4}" skinid="ht_node" description="" pan="-41.19" tilt="-15.52"/>
-      <hotspot id="Point04" title="Fruit Basket" target="" url="" skinid="ht_info" description="We added this basket to utlize the corner and free up counter space. We are careful not to put too much into the basket because there isn't a ton of support on the ceiling. " pan="-97.24" tilt="-0.520001"/>
-      <hotspot id="Point05" title="Coat Rack" target="" url="" skinid="ht_info" description="We kept putting our coats on the backs of the chairs but it started to look too cluttered. Nick installed this coat hanger and it was quickly put to use. " pan="-22.5" tilt="6.66"/>
-      <hotspot id="Point06" title="New Light Fixture" target="" url="" skinid="ht_info" description="The original light fixture here looked... well it looked like it was from the 90s. We thought about making our own out of mason jars but we were already at the end of our motivation streak for the RV. This new light is incandescent so there's still a little bit of warmth in the RV at night. " pan="139.84" tilt="17.32"/>
-      <hotspot id="Point07" title="Added Touch" target="" url="" skinid="ht_info" description="Thanks, mom, for the pillow! It says: &quot;Home is where we park it&quot;. We often look at each other when driving and say how we can't believe we are driving our home around. " pan="69.17" tilt="-25.88"/>
-      <hotspot id="Point08" title="Our &quot;New&quot; Couch" target="" url="" skinid="ht_info" description="We really didn't do too much to the couch except for put this new cover on it to cover up the flower print. It's got a pull-out bed ready for anyone who wants to visit us!" pan="79.29" tilt="-20.08"/>
-      <hotspot id="Point09" title="New Paint" target="" url="" skinid="ht_info" description="To give the RV a fresh look and to make it feel more open, we painted all of the cupboards ultra white and the walls eggshell white. We also spray-painted all the hardware after buffing down the original gold color. This saved us over a hundred dollars (there's a lot of hardware in this place). " pan="-161.71" tilt="13.23"/>
-      <hotspot id="Point10" title="New Lights" target="" url="" skinid="ht_info" description="All of the lights (except for the light fixture above the table) are now LED. We accidentally bought the white LEDs but it ended up looking very blue in here. A quick swap to the warm LEDs made it all better. " pan="-6.48" tilt="25.2"/>
-      <hotspot id="Point11" title="Slide-out" target="" url="" skinid="ht_info" description="This whole wall slides in when we are traveling from place to place. If you look at the floor you can see the table and the couch are on a small platform and this comes in. The entire workspace area will be covered, leaving a small walkway to get from the kitchen to the door. " pan="102.02" tilt="4.89"/>
-      <hotspot id="Point12" title="New Curtains" target="" url="" skinid="ht_info" description="Check out the before and after pictures of the curtains. Not only were they outdated, but they were filled with 20 years of dust. When we first started renovating, the old curtains were some of the first things to go. We had to put up sheets as a temporary fix until my mom and I went to JoAnns to make new ones. I threw in a little retro look with the blue and green print curtains as a nod to the past. " pan="115.94" tilt="7.62"/>
-      <hotspot id="Point13" title="Flooring!" target="" url="" skinid="ht_info" description="The flooring may have been the most exciting renovation. Not because of how long it took, but because it made all the difference in the world by not having a blue carpet in here. It's of the vinyl laminate style that snaps together. It's super easy to clean, nearly indestructalbe, and it gives a fresh look to the RV.  " pan="-175.63" tilt="-34.33"/>
-      <hotspot id="Point14" title="Workstation" target="" url="" skinid="ht_info" description="Under the mirror  housed the box tv and VCR. At least that's what we are guessing since we never saw the tv. This became Nick's workstation with the stand up computer arm. Cait sits at the table or on the couch. Sometimes in the bedroom but not too often as this usually leads to a nap. " pan="13.23" tilt="-3.9"/>
-      <hotspot id="Point15" title="Pride and Joy" target="" url="" skinid="ht_info" description="This. This right here is the main feature of the entire RV. A cassette player connected to speakers in the ceiling in the living room and the bedroom. Oh yeah-be jealous. The previous owner who sold us the RV was so proud of this feature. We almost started laughing until we realized he was serious. It is kind of cool because we can listen to the radio and if we are feeling up to it we will pull out the old Alanis Morissette tapes. Or even Bush. " pan="23.33" tilt="-21.06"/>
-      <hotspot id="Point17" title="Storage/Seat" target="" url="images/Hope_chest.jpg" skinid="ht_image" description="This was a Christmas present when Cait was growing up and it has followed us throughout our different homes. It's great to have a bench seat with the extra storage underneath." pan="160" tilt="-22.9"/>
-      <hotspot id="Point18" title="Before Image" target="" url="images/before_1.jpg" skinid="ht_image" description="" pan="-158.45" tilt="-32.2"/>
-      <hotspot id="Point19" title="Before Image" target="" url="images/before_couch.jpg" skinid="ht_image" description="" pan="43.31" tilt="-30.63"/>
-      <hotspot id="Point16" title="Cat Litter" target="" url="XVYM-wOQAKk" skinid="ht_video_youtube" description="" pan="12.46" tilt="-27.96"/>
+    <userdata datetime="12/1/18 8:18 AM" longitude="" info="" comment="" customnodeid="" copyright="" description="" author="" title="" latitude="" tags="Edited 360s" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textalpha="1" wordwrap="1" width="180" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" height="20" enabled="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-4.57" pan="-15.07" target="" id="Point01" skinid="ht_node" description="" title="To the bathroom!" url="{node2}"/>
+      <hotspot tilt="-0.21" pan="-6.98" target="" id="Point02" skinid="ht_node" description="" title="To the bedroom!" url="{node3}"/>
+      <hotspot tilt="-15.52" pan="-41.19" target="" id="Point03" skinid="ht_node" description="" title="See the outside!" url="{node4}"/>
+      <hotspot tilt="-0.520001" pan="-97.24" target="" id="Point04" skinid="ht_info" description="We added this basket to utlize the corner and free up counter space. We are careful not to put too much into the basket because there isn't a ton of support on the ceiling. " title="Fruit Basket" url=""/>
+      <hotspot tilt="6.66" pan="-22.5" target="" id="Point05" skinid="ht_info" description="We kept putting our coats on the backs of the chairs but it started to look too cluttered. Nick installed this coat hanger and it was quickly put to use. " title="Coat Rack" url=""/>
+      <hotspot tilt="17.32" pan="139.84" target="" id="Point06" skinid="ht_info" description="The original light fixture here looked... well it looked like it was from the 90s. We thought about making our own out of mason jars but we were already at the end of our motivation streak for the RV. This new light is incandescent so there's still a little bit of warmth in the RV at night. " title="New Light Fixture" url=""/>
+      <hotspot tilt="-25.88" pan="69.17" target="" id="Point07" skinid="ht_info" description="Thanks, mom, for the pillow! It says: &quot;Home is where we park it&quot;. We often look at each other when driving and say how we can't believe we are driving our home around. " title="Added Touch" url=""/>
+      <hotspot tilt="-20.08" pan="79.29" target="" id="Point08" skinid="ht_info" description="We really didn't do too much to the couch except for put this new cover on it to cover up the flower print. It's got a pull-out bed ready for anyone who wants to visit us!" title="Our &quot;New&quot; Couch" url=""/>
+      <hotspot tilt="13.23" pan="-161.71" target="" id="Point09" skinid="ht_info" description="To give the RV a fresh look and to make it feel more open, we painted all of the cupboards ultra white and the walls eggshell white. We also spray-painted all the hardware after buffing down the original gold color. This saved us over a hundred dollars (there's a lot of hardware in this place). " title="New Paint" url=""/>
+      <hotspot tilt="25.2" pan="-6.48" target="" id="Point10" skinid="ht_info" description="All of the lights (except for the light fixture above the table) are now LED. We accidentally bought the white LEDs but it ended up looking very blue in here. A quick swap to the warm LEDs made it all better. " title="New Lights" url=""/>
+      <hotspot tilt="4.89" pan="102.02" target="" id="Point11" skinid="ht_info" description="This whole wall slides in when we are traveling from place to place. If you look at the floor you can see the table and the couch are on a small platform and this comes in. The entire workspace area will be covered, leaving a small walkway to get from the kitchen to the door. " title="Slide-out" url=""/>
+      <hotspot tilt="7.62" pan="115.94" target="" id="Point12" skinid="ht_info" description="Check out the before and after pictures of the curtains. Not only were they outdated, but they were filled with 20 years of dust. When we first started renovating, the old curtains were some of the first things to go. We had to put up sheets as a temporary fix until my mom and I went to JoAnns to make new ones. I threw in a little retro look with the blue and green print curtains as a nod to the past. " title="New Curtains" url=""/>
+      <hotspot tilt="-34.33" pan="-175.63" target="" id="Point13" skinid="ht_info" description="The flooring may have been the most exciting renovation. Not because of how long it took, but because it made all the difference in the world by not having a blue carpet in here. It's of the vinyl laminate style that snaps together. It's super easy to clean, nearly indestructalbe, and it gives a fresh look to the RV.  " title="Flooring!" url=""/>
+      <hotspot tilt="-3.9" pan="13.23" target="" id="Point14" skinid="ht_info" description="Under the mirror  housed the box tv and VCR. At least that's what we are guessing since we never saw the tv. This became Nick's workstation with the stand up computer arm. Cait sits at the table or on the couch. Sometimes in the bedroom but not too often as this usually leads to a nap. " title="Workstation" url=""/>
+      <hotspot tilt="-21.06" pan="23.33" target="" id="Point15" skinid="ht_info" description="This. This right here is the main feature of the entire RV. A cassette player connected to speakers in the ceiling in the living room and the bedroom. Oh yeah-be jealous. The previous owner who sold us the RV was so proud of this feature. We almost started laughing until we realized he was serious. It is kind of cool because we can listen to the radio and if we are feeling up to it we will pull out the old Alanis Morissette tapes. Or even Bush. " title="Pride and Joy" url=""/>
+      <hotspot tilt="-22.9" pan="160" target="" id="Point17" skinid="ht_image" description="This was a Christmas present when Cait was growing up and it has followed us throughout our different homes. It's great to have a bench seat with the extra storage underneath." title="Storage/Seat" url="images/Hope_chest.jpg"/>
+      <hotspot tilt="-32.2" pan="-158.45" target="" id="Point18" skinid="ht_image" description="" title="Before Image" url="images/before_1.jpg"/>
+      <hotspot tilt="-30.63" pan="43.31" target="" id="Point19" skinid="ht_image" description="" title="Before Image" url="images/before_couch.jpg"/>
+      <hotspot tilt="-27.96" pan="12.46" target="" id="Point16" skinid="ht_video_youtube" description="" title="Cat Litter" url="XVYM-wOQAKk"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0" zoomout="0" enabled="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
-    <control sensitivity="8" lockedmouse="0" contextfullscreen="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+    <transition zoomspeed="2" type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" zoomout="0" zoomoutpause="1" enabled="0" blendtime="1" blendcolor="0x000000"/>
+    <control rubberband="0" lockedmouse="0" contextfullscreen="0" invertwheel="0" hideabout="0" speedwheel="1" lockedwheel="0" invertcontrol="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node2">
-    <input width="3700" levelingpitch="0" levelingroll="0" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3700" levelbias="0.400">
-      <level width="3700" preload="0" height="3700" predecode="0"/>
-      <level width="1850" preload="0" height="1850" predecode="0"/>
-      <level width="925" preload="0" height="925" predecode="0"/>
-      <level width="462" preload="1" height="462" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="0.400" width="3700" levelingroll="0" leveltilesize="510" height="3700" levelbias="0.400" levelingpitch="0">
+      <level width="3700" height="3700" preload="0" predecode="0"/>
+      <level width="1850" height="1850" preload="0" predecode="0"/>
+      <level width="925" height="925" preload="0" predecode="0"/>
+      <level width="462" height="462" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min fov="5" pan="0" tilt="-65.5"/>
-      <max fovstereographic="270" fovfisheye="360" fov="120" pan="360" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fov="5" tilt="-65.5" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" latitude="" title="" tags="Edited 360s" datetime="12/1/18 8:25 AM" comment="" author="" customnodeid="" info="" description="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" borderradius="1" border="1" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot id="Point01" title="To the main area!" target="" url="{node1}" skinid="ht_node" description="" pan="83.01" tilt="2.53"/>
-      <hotspot id="Point02" title="To the bedroom!" target="" url="{node3}" skinid="ht_node" description="" pan="-87.95" tilt="-6.82"/>
-      <hotspot id="Point03" title="Closet Storage" target="" url="images/Closet_1.jpg" skinid="ht_image" description="" pan="-141.81" tilt="-4.14"/>
-      <hotspot id="Point04" title="Bathroom Closet" target="" url="images/Bath_closet.jpg" skinid="ht_image" description="" pan="28.05" tilt="22.01"/>
+    <userdata datetime="12/1/18 8:25 AM" longitude="" info="" comment="" customnodeid="" copyright="" description="" author="" title="" latitude="" tags="Edited 360s" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textalpha="1" wordwrap="1" width="180" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" height="20" enabled="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="2.53" pan="83.01" target="" id="Point01" skinid="ht_node" description="" title="To the main area!" url="{node1}"/>
+      <hotspot tilt="-6.82" pan="-87.95" target="" id="Point02" skinid="ht_node" description="" title="To the bedroom!" url="{node3}"/>
+      <hotspot tilt="-4.14" pan="-141.81" target="" id="Point03" skinid="ht_image" description="" title="Closet Storage" url="images/Closet_1.jpg"/>
+      <hotspot tilt="22.01" pan="28.05" target="" id="Point04" skinid="ht_image" description="" title="Bathroom Closet" url="images/Bath_closet.jpg"/>
+      <hotspot tilt="-28.86" pan="1.75" target="" id="Point05" skinid="ht_info" description="This was one of our best upgrades to our RV: it's a compost toilet that is completely self-contained! We sealed off our black tank so we no longer have to worry about sewage. Check out the FAQ page to learn more about when we have to dump this fancy contraption. " title="Our Toilet!" url=""/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0" zoomout="0" enabled="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
-    <control sensitivity="8" lockedmouse="0" contextfullscreen="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+    <transition zoomspeed="2" type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" zoomout="0" zoomoutpause="1" enabled="0" blendtime="1" blendcolor="0x000000"/>
+    <control rubberband="0" lockedmouse="0" contextfullscreen="0" invertwheel="0" hideabout="0" speedwheel="1" lockedwheel="0" invertcontrol="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node3">
-    <input width="3678" levelingpitch="0" levelingroll="-6" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3678" levelbias="0.400">
-      <level width="3678" preload="0" height="3678" predecode="0"/>
-      <level width="1839" preload="0" height="1839" predecode="0"/>
-      <level width="919" preload="0" height="919" predecode="0"/>
-      <level width="459" preload="1" height="459" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="0.400" width="3678" levelingroll="-6" leveltilesize="510" height="3678" levelbias="0.400" levelingpitch="0">
+      <level width="3678" height="3678" preload="0" predecode="0"/>
+      <level width="1839" height="1839" preload="0" predecode="0"/>
+      <level width="919" height="919" preload="0" predecode="0"/>
+      <level width="459" height="459" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min fov="5" pan="0" tilt="-53.1"/>
-      <max fovstereographic="270" fovfisheye="360" fov="120" pan="360" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fov="5" tilt="-53.1" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" latitude="" title="" tags="Edited 360s" datetime="12/1/18 8:30 AM" comment="" author="" customnodeid="" info="" description="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" borderradius="1" border="1" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot id="Point01" title="To the bathroom!" target="" url="{node2}" skinid="ht_node" description="" pan="69.07" tilt="-5.27"/>
-      <hotspot id="Point02" title="To the main area!" target="" url="{node1}" skinid="ht_node" description="" pan="54.75" tilt="-7.14"/>
-      <hotspot id="Point03" title="Cat Perch" target="" url="images/Zelda.jpg" skinid="ht_image" description="" pan="96.11" tilt="0.45"/>
+    <userdata datetime="12/1/18 8:30 AM" longitude="" info="" comment="" customnodeid="" copyright="" description="" author="" title="" latitude="" tags="Edited 360s" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textalpha="1" wordwrap="1" width="180" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" height="20" enabled="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="-5.27" pan="69.07" target="" id="Point01" skinid="ht_node" description="" title="To the bathroom!" url="{node2}"/>
+      <hotspot tilt="-7.14" pan="54.75" target="" id="Point02" skinid="ht_node" description="" title="To the main area!" url="{node1}"/>
+      <hotspot tilt="0.45" pan="96.11" target="" id="Point03" skinid="ht_image" description="" title="Cat Perch" url="images/Zelda.jpg"/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0" zoomout="0" enabled="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
-    <control sensitivity="8" lockedmouse="0" contextfullscreen="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+    <transition zoomspeed="2" type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" zoomout="0" zoomoutpause="1" enabled="0" blendtime="1" blendcolor="0x000000"/>
+    <control rubberband="0" lockedmouse="0" contextfullscreen="0" invertwheel="0" hideabout="0" speedwheel="1" lockedwheel="0" invertcontrol="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
   <panorama id="node4">
-    <input width="3640" levelingpitch="0" levelingroll="0" levelbiashidpi="0.400" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="3640" levelbias="0.400">
-      <level width="3640" preload="0" height="3640" predecode="0"/>
-      <level width="1820" preload="0" height="1820" predecode="0"/>
-      <level width="910" preload="0" height="910" predecode="0"/>
-      <level width="455" preload="1" height="455" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="0.400" width="3640" levelingroll="0" leveltilesize="510" height="3640" levelbias="0.400" levelingpitch="0">
+      <level width="3640" height="3640" preload="0" predecode="0"/>
+      <level width="1820" height="1820" preload="0" predecode="0"/>
+      <level width="910" height="910" preload="0" predecode="0"/>
+      <level width="455" height="455" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70" projection="4" pan="0" tilt="0"/>
-      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min fov="5" pan="0" tilt="-62.9"/>
-      <max fovstereographic="270" fovfisheye="360" fov="120" pan="360" tilt="90" scaletofit="1"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fov="5" tilt="-62.9" pan="0"/>
+      <max fov="120" fovfisheye="360" tilt="90" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" latitude="" title="" tags="Edited 360s" datetime="12/1/18 11:26 AM" comment="" author="" customnodeid="" info="" description="" source=""/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" enabled="1" bordercolor="0x000000" backgroundcolor="0xffffff" textalpha="1" background="1" borderradius="1" border="1" height="20" textcolor="0x000000" borderalpha="1" wordwrap="1" backgroundalpha="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
-      <hotspot id="Point01" title="Check out the inside" target="" url="{node1}" skinid="ht_node" description="" pan="4.66" tilt="0.83"/>
-      <hotspot id="Point02" title="Gas Tanks" target="" url="images/Gas.jpg" skinid="ht_image" description="" pan="-13.23" tilt="-10.77"/>
-      <hotspot id="Point03" title="Batteries" target="" url="images/Batteries.jpg" skinid="ht_image" description="" pan="-30.05" tilt="-13.61"/>
-      <hotspot id="Point04" title="Bike Rack" target="" url="images/Bike.jpg" skinid="ht_image" description="" pan="35.1" tilt="0.26"/>
+    <userdata datetime="12/1/18 11:26 AM" longitude="" info="" comment="" customnodeid="" copyright="" description="" author="" title="" latitude="" tags="Edited 360s" source=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textalpha="1" wordwrap="1" width="180" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" height="20" enabled="1" backgroundcolor="0xffffff" borderradius="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot tilt="0.83" pan="4.66" target="" id="Point01" skinid="ht_node" description="" title="Check out the inside" url="{node1}"/>
+      <hotspot tilt="-10.77" pan="-13.23" target="" id="Point02" skinid="ht_image" description="" title="Gas Tanks" url="images/Gas.jpg"/>
+      <hotspot tilt="-13.61" pan="-30.05" target="" id="Point03" skinid="ht_image" description="" title="Batteries" url="images/Batteries.jpg"/>
+      <hotspot tilt="0.26" pan="35.1" target="" id="Point04" skinid="ht_image" description="" title="Bike Rack" url="images/Bike.jpg"/>
+      <hotspot tilt="0.67" pan="-99.3" target="" id="Point05" skinid="ht_info" description="We bought our truck and RV together from an elderly couple who were no longer able to use them to go camping in Colorado. The man took imbeccable care of both; in fact, the original plastic cover was still on our bed. The truck was only ever used to tow the RV and only had 20,500 miles on it. Did we mention our &quot;new&quot; truck is from 1999? " title="Our '99 Truck" url=""/>
     </hotspots>
     <media/>
-    <transition blendtime="1" zoomspeed="2" zoomin="0" blendcolor="0x000000" softedge="0" zoomout="0" enabled="0" zoomoutpause="1" zoomfov="20" type="crossdissolve"/>
-    <control sensitivity="8" lockedmouse="0" contextfullscreen="0" hideabout="0" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" rubberband="0" lockedwheel="0" speedwheel="1" invertcontrol="1" lockedkeyboard="0"/>
+    <transition zoomspeed="2" type="crossdissolve" zoomfov="20" zoomin="0" softedge="0" zoomout="0" zoomoutpause="1" enabled="0" blendtime="1" blendcolor="0x000000"/>
+    <control rubberband="0" lockedmouse="0" contextfullscreen="0" invertwheel="0" hideabout="0" speedwheel="1" lockedwheel="0" invertcontrol="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0"/>
   </panorama>
 </tour>
